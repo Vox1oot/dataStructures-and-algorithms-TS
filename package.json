@@ -1,0 +1,33 @@
+{
+  "name": "datastructures-and-algorithms-ts",
+  "version": "1.0.0",
+  "description": "Репозиторий создан для изучения книги \"Структуры данных и алгоритмы Робер Лафоре\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vox1oot/dataStructures-and-algorithms-TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vox1oot/dataStructures-and-algorithms-TS/issues"
+  },
+  "homepage": "https://github.com/Vox1oot/dataStructures-and-algorithms-TS#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-typescript": "^7.18.6",
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/parser": "^5.44.0",
+    "babel-jest": "^29.3.1",
+    "eslint": "^8.28.0",
+    "eslint-plugin-jest": "^27.1.6",
+    "jest": "^29.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
+  }
+}
