@@ -1,4 +1,4 @@
-const numbers = [3, 20, 5, 1, 0, -1];
+const test = [-100, 100, 0, 5];
 
 const insertionSort = (coll: Array<number>) => {
     for (let i = 1; i < coll.length; i += 1) {
